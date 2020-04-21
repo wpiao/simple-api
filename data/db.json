@@ -1,0 +1,73 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "books",
+      "display_name": "books",
+      "description": "This is book category."
+    },
+    {
+      "name": "electronics",
+      "display_name": "electronics",
+      "description": "This is electronics category.",
+      "_id": 2
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "categoryId": 1,
+      "name": "Harry Potter 1",
+      "display_name": "Harry Potter 1",
+      "description": "This is Harry Potter 1."
+    },
+    {
+      "categoryId": 1,
+      "name": "Harry Potter 2",
+      "display_name": "Harry Potter 2",
+      "description": "This is Harry Potter 2.",
+      "_id": 2
+    },
+    {
+      "categoryId": 1,
+      "name": "Harry Potter 3",
+      "display_name": "Harry Potter 3",
+      "description": "This is Harry Potter 3.",
+      "_id": 3
+    },
+    {
+      "categoryId": 1,
+      "name": "Harry Potter 4",
+      "display_name": "Harry Potter 4",
+      "description": "This is Harry Potter 4.",
+      "_id": 4
+    },
+    {
+      "categoryId": 1,
+      "name": "Harry Potter 5",
+      "display_name": "Harry Potter 5",
+      "description": "This is Harry Potter 5.",
+      "_id": 5
+    },
+    {
+      "categoryId": 1,
+      "name": "Harry Potter 6",
+      "display_name": "Harry Potter 6",
+      "description": "This is Harry Potter 6.",
+      "_id": 6
+    },
+    {
+      "categoryId": 1,
+      "name": "Harry Potter 7",
+      "display_name": "Harry Potter 7",
+      "description": "This is Harry Potter 7.",
+      "_id": 7
+    },
+    {
+      "categoryId": 1,
+      "name": "Harry Potter 9",
+      "display_name": "Harry Potter 9",
+      "description": "This is Harry Potter 9."
+    }
+  ]
+}
